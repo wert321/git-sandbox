@@ -1,1 +1,2 @@
-print 'hell'
+for i in range(10):
+	print 'hell'
